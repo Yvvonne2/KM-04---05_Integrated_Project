@@ -102,7 +102,7 @@ def main():
     print("Charts saved as revenue_per_product.png and monthly_trend.png")
 
     conn.close()
-    print("\nDone! Don't forget to commit and push your progress to GitHub.")
+    print("\nDone!")
 
 
 if __name__ == "__main__":
